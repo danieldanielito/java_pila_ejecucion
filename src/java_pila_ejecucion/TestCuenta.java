@@ -7,7 +7,7 @@ public class TestCuenta {
 		//cuenta.deposita(10);
 		//cuenta.saca(15);
 		CuentaCorriente cue = new CuentaCorriente();
-		cue.deposita(11);
+		cue.deposita(12);
 		cue.saca(11);
 
 	}
